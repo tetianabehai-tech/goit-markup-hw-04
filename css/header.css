@@ -46,7 +46,7 @@
 .nav-link.current::after {
   position: absolute;
   right: 0;
-  bottom: -1px;
+  bottom: 0;
   left: 0;
   height: 4px;
   border-radius: 2px;
